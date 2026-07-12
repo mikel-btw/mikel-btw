@@ -1,40 +1,32 @@
-
-{  
-  "coloredImage": true,
-  "removeBackground": false,
-  "imageScale": 1,
-  "imageOffsetX": 0,
-  "imageOffsetY": 0,
+{
   "sections": [
     {
-      "title": "{{username}}@github",
+      "title": "mikel-btw@github",
       "fields": [
-        { "key": "Name", "value": "{{name}}" },
-        { "key": "Location", "value": "{{location}}" },
-        { "key": "Created", "value": "{{created}}" },
+        { "key": "Name", "value": "Mikel" },
+        { "key": "Location", "value": "Colombia" },
+        { "key": "SO", "value": "Debian/Void Linux" },
         { "key": "Uptime", "value": "{{uptime}}" },
         { "key": "Company", "value": "{{company}}" }
       ]
     },
     {
       "fields": [
-        { "key": "Languages", "value": "{{languages}}" },
-        { "key": "IDE", "value": "Cursor, VSCode, Neovim" }
+        { "key": "Languages", "value": "Java·TS/JS·C" },
+        { "key": "IDE", "value": "VSCode·Nano·Jetbrains" }
       ]
     },
     {
       "fields": [
-        { "key": "Hobbies.Software", "value": "WebGL, WebGPU, AI/ML" },
-        { "key": "Hobbies.Hardware", "value": "Mechanical Keyboards" }
+        { "key": "Hobbies.Software", "value": "Programming·Open source·Web Pages" },
+        { "key": "Hobbies.Hardware", "value": "PC Moding·Cyberdecks" }
       ]
     },
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "jean.timex@gmail.com" },
-        { "key": "Website", "value": "https://github.com/jeantimex" },
-        { "key": "Twitter", "value": "{{twitter}}" },
-        { "key": "LeetCode", "value": "https://leetcode.com/u/jeantimex/" }
+        { "key": "Email", "value": "{{email}}" },
+        { "key": "Website", "value": "https://github.com/{{username}}" },
       ]
     }
   ],
@@ -44,7 +36,7 @@
       { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
       { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
       { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
-      { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "Pull Requests", "value": "{{prs}}" } },
+      { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "PRs", "value": "{{prs}}" } },
       "loc"
     ]
   }
