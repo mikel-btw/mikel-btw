@@ -1,64 +1,51 @@
-<!-- ===== HEADER ===== -->
+
+```
+╭─────────────────────────────────────────────────────────────────────────╮
+│                                                                         │
+│    ███╗   ███╗██╗██╗  ██╗███████╗██╗         miguel@github              │
+│    ████╗ ████║██║██║ ██╔╝██╔════╝██║         ───────────────────────    │
+│    ██╔████╔██║██║█████╔╝ █████╗  ██║         OS      : Debian/Void      │
+│    ██║╚██╔╝██║██║██╔═██╗ ██╔══╝  ██║         Shell   : bash / zsh       │
+│    ██║ ╚═╝ ██║██║██║  ██╗███████╗███████╗    Editor  : VSCode           │
+│    ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚══════╝    Lang    : Java·C·JS/TS     │
+│                                              Focus   : Backend · DB     │
+│    mikel-btw                                 Student : Ing. Sistemas    │
+│                                              ───────────────────────    │
+│                                              Repos   : ██████░░░░ →     │
+│                                              Commits : ████████░░ →     │
+│                                              PRs     : ███░░░░░░░ →     │
+│                                                                         │
+╰─────────────────────────────────────────────────────────────────────────╯
+```
+
 <div align="center">
 
-```
-mikel-btw@github ~ $ whoami
-```
-
-</div>
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   miguel@dev                                                │
-│   ─────────                                                 │
-│   Name       : Miguel Angel Osorio Orduz                   │
-│   Role       : Backend Developer (in progress)             │
-│   Education  : Ing. en Sistemas · Técnico en Programación  │
-│   Focus      : Backend · Bases de datos · Linux            │
-│   OS         : Arch Linux / Ubuntu                         │
-│   Shell      : bash / zsh                                  │
-│   Editor     : VSCode / Neovim                             │
-│                                                             │
-│   GitHub     : github.com/mikel-btw                        │
-│   LinkedIn   : linkedin.com/in/miguel-angel-osorio-orduz.. │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-<!-- ===== STATS ===== -->
-<div align="center">
-
-### Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=mikel-btw&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mikel-btw&theme=transparent&hide_border=true&date_format=Y-m-d" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikel-btw&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mikel-btw&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&show=prs_merged,discussions_started" height="110"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikel-btw&layout=compact&theme=transparent&hide_border=true&langs_count=5&hide_title=true" height="110"/>
 
 </div>
 
 ---
 
-<!-- ===== PROYECTOS ===== -->
+<details>
+<summary><code>📁 ~/projects</code></summary>
+<br>
 
-### Proyectos destacados
+| lang | repo | description |
+|------|------|-------------|
+| `C` | [epson-l3110-driver](https://github.com/mikel-btw/epson-l3110-driver) | Native Linux printer driver. No proprietary blobs. USB + ESC/P-R + CUPS from scratch. |
+| `Java` | [Cat-Coffee-CRUD](https://github.com/mikel-btw/Cat-Coffee-CRUD) | Console CRUD system over MySQL. DAO pattern + JDBC. |
+| `TS` | [hashpass-simple](https://github.com/mikel-btw/hashpass-simple) | Hash-based password generator. |
+| `JS` | [Congreso-Filosofia](https://github.com/mikel-btw/Congreso-Filosofia) | Static site for an academic philosophy congress. |
 
-| Repo | Descripción |
-|------|-------------|
-| [epson-l3110-driver](https://github.com/mikel-btw/epson-l3110-driver) | Driver nativo Linux para Epson L3110 escrito en C desde cero. Sin blobs propietarios. Implementa USB, ESC/P-R y CUPS. |
-| [Cat-Coffee-CRUD](https://github.com/mikel-btw/Cat-Coffee-CRUD) | Sistema de gestión en Java con consola, CRUD sobre MySQL. Patrón DAO con JDBC. |
-| [hashpass-simple](https://github.com/mikel-btw/hashpass-simple) | Generador de contraseñas basado en hashing. |
-| [Congreso-Filosofia](https://github.com/mikel-btw/Congreso-Filosofia) | Sitio web para congreso académico de filosofía. |
+</details>
 
----
+<details>
+<summary><code>📬 ~/contact</code></summary>
+<br>
 
-<!-- ===== CONTACTO ===== -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-osorio-orduz-25225731a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mikel-btw)
 
-### Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-osorio-orduz-25225731a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mikel-btw)
+</details>
