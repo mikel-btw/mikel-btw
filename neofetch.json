@@ -26,7 +26,7 @@
       "title": "- Contact",
       "fields": [
         { "key": "Email", "value": "{{email}}" },
-        { "key": "Website", "value": "https://github.com/{{username}}" },
+        { "key": "Website", "value": "https://github.com/{{username}}" }
       ]
     }
   ],
