@@ -5,5 +5,3 @@
       &theme=github-light">
   </picture>
 </a>
-
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=mikel-btw)
