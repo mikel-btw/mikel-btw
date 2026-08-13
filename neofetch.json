@@ -13,7 +13,7 @@
     {
       "fields": [
         { "key": "Languages", "value": "Java·TS/JS·C" },
-        { "key": "IDE", "value": "VSCode·Nano·Jetbrains" }
+        { "key": "IDE", "value": "VSCode·NVim·Nano·Jetbrains" }
       ]
     },
     {
