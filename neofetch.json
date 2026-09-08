@@ -5,7 +5,7 @@
       "fields": [
         { "key": "Name", "value": "Mikel" },
         { "key": "Location", "value": "Colombia" },
-        { "key": "SO", "value": "Debian/Void Linux" },
+        { "key": "SO", "value": "Debian/Void Linux/Gentoo" },
         { "key": "Uptime", "value": "{{uptime}}" },
         { "key": "Company", "value": "{{company}}" }
       ]
