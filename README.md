@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <a href="https://github.com/jeantimex/neofetch-profile">
     <picture>
       <source
